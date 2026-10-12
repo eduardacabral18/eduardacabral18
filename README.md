@@ -31,7 +31,7 @@
 
 <div align="center">
 
-Olá! Meu nome é **Maria Eduarda** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. 
+Olá! Meu nome é *Maria Eduarda* e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. 
 
 <br><br>
 
