@@ -9,7 +9,7 @@
 <body>
     <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6D28D9,100:FF2D95&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=#6A0DAD&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20MARIA%20EDUARDA...&descSize=16&descColor=#ff0000&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E053A,50:30106B,100:061A40&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=8B5CF6&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20MARIA%20EDUARDA...&descSize=16&descColor=7DD3FC&descAlignY=58" width="100%"/>
 
 <br>
 
