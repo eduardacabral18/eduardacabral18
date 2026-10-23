@@ -9,7 +9,8 @@
 <body>
     <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:0A1F44,100:38BDF8&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=93C5FD&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20MARIA%20EDUARDA...&descSize=16&descColor=B8C7FF&descAlignY=58" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Maria+Eduarda+%F0%9F%91%8B;ADS+Student+%7C+Technology+%7C+Web+Development;Learning+%26+building+my+first+projects;Welcome+to+my+GitHub..." alt="Typing Animation"/>
+
 
 <br>
 
